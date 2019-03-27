@@ -1,0 +1,21 @@
+html body {
+    margin: 0;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium';
+    color: rgb(48, 130, 197);
+}
+#myList{
+    margin:20px 60px;
+}
+
+.btn { 
+    text-align: center;
+    font-size: 45px;
+    width: 320px;
+    padding: 20px 30px;
+    color: white;
+    background-color: rgb(48, 130, 197);
+    float:left;
+    outline:none;
+    margin-left:50px;
+ }
