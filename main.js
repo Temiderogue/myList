@@ -21,4 +21,4 @@ delbtn.onclick = function(){
          lastLi.parentNode.removeChild(lastLi);//удаляем пункт списка, 
          //если конечно в списке еще что-то осталось
        }
-}
+}/// Checking for changes
